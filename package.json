@@ -1,0 +1,15 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "*Live server* - a development module for appshaving live reload feature too.\r run command live-server public where __public__ is the director we want to serve from.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
